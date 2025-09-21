@@ -58,7 +58,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinadh-mt/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:abhinadhmtofficial@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="[https://your-portfolio.com](https://abhinadh.github.io/portfolio/)"><img src="https://img.shields.io/badge/Portfolio-000?logo=google-chrome&style=for-the-badge" /></a>
+  <a href="https://abhinadh.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?logo=google-chrome&style=for-the-badge" /></a>
 </p>
 
 ---

@@ -21,7 +21,7 @@
 
 > Just a few of the projects I've worked on:
 
-- 🍱 Food Delivery Web App (MERN Stack)  
+- 🍱 Food Delivery Web App (MERN Stack)  <a href="https://foody-delivery-app-new-abhis-projects-db5704d2.vercel.app/">View Demo</a>
 - 🖱️ Gesture-Controlled Virtual Mouse  
 - 🧠 Real-Time Object Detection using YOLOv8  
 - 🚨 IoT  Gas Detection System  
